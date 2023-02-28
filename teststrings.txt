@@ -1,0 +1,6 @@
+the quick brown fox
+count to 5 ... 12345
+3461 is Networking Fundamentals
+Go Bucks!
+The next string will be a quit
+quit

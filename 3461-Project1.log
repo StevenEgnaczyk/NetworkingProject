@@ -1,0 +1,52 @@
+INFO:root:project1 starting
+INFO:root:Logging to 3461-Project1.log
+INFO:root:Log level set to INFO
+INFO:root:Configuration File Contents:
+INFO:root:	Section: osu
+INFO:root:		option university = The Ohio State University
+INFO:root:		option college = College of Engineering
+INFO:root:		option department = Department of Computer Science and Engineering
+INFO:root:		option class = CSE3461
+INFO:root:	Section: server
+INFO:root:		option serverhost = 10.134.215.76
+INFO:root:		option serverport = 5782
+INFO:root:	Section: logger
+INFO:root:		option loghost = 10.1.154.241
+INFO:root:		option loglevel = info
+INFO:root:	Section: db
+INFO:root:		option host = 10.129.2.170
+INFO:root:		option port = 3232
+INFO:root:		option commitinterval = 60
+INFO:root:	Section: bitbucket.org
+INFO:root:		option user = hg
+INFO:root:	Section: topsecret.server.com
+INFO:root:		option port = 50022
+INFO:root:		option forwardx11 = no
+INFO:root:	Section: http
+INFO:root:		option port = 8080
+INFO:root:		option username = httpuser
+INFO:root:	Section: https
+INFO:root:		option port = 8043
+INFO:root:		option username = httpsuser
+INFO:root:	Section: FTP
+INFO:root:		option port = 8043
+INFO:root:		option username = ftpuser
+INFO:root:	Section: database
+INFO:root:		option driverclass = com.mysql.jdbc.Driver
+INFO:root:		option dbname = mydatabase
+INFO:root:		option port = 3306
+INFO:root:		option username = user
+INFO:root:		option password = password
+INFO:root:the quick brown fox
+INFO:root:THE quick brown fox 
+INFO:root:count to 5 ... 12345
+INFO:root:COUNT to 5 ... 12345 
+INFO:root:3461 is Networking Fundamentals
+INFO:root:3461 is Networking Fundamentals 
+INFO:root:Go Bucks!
+INFO:root:GO Bucks! 
+INFO:root:The next string will be a quit
+INFO:root:THE next string will be a quit 
+INFO:root:quit
+INFO:root:QUIT 
+INFO:root:Shutting down ...
